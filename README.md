@@ -13,8 +13,8 @@
 🔹 Always learning, experimenting, and breaking things (ethically, of course 😉).  
 
 🛠️ **Tech Toolbox:**  
-💻 **Languages**: Python, C, Bash  
-🔍 **Security Tools**: Burp Suite, Metasploit, Wireshark  
+💻 **Languages**: Python, C, java
+🔍 **Security Tools**: Burp Suite, Metasploit, Wireshark, Splunk, Remnux OS, autopsy
 🔐 **Interests**: Web security, malware analysis, digital forensics  
 
 📫 **Connect with Me:**  
